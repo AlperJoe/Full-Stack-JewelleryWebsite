@@ -8,7 +8,7 @@ This is a full-stack jewelry listing application built for the Full-Stack Develo
 
 - **Frontend:** React, React Slick, Custom CSS
 - **Backend:** Node.js, Express
-- **API:** [GoldAPI](https://www.goldapi.io/) (with fallback support)
+- **API:** [GoldAPI](https://www.goldapi.io/) 
 - **Deployment:** Vercel (frontend), Render (backend)
 
 ---
@@ -29,8 +29,10 @@ This is a full-stack jewelry listing application built for the Full-Stack Develo
 
 ### 1. Backend
 ```bash
+npm i
 cd backend
 node server.js
 
+npm i
 cd frontend
 npm start
