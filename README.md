@@ -36,3 +36,9 @@ node server.js
 npm i
 cd frontend
 npm start
+
+## Live Deployment
+
+- Backend: https://full-stack-jewellerywebsite.onrender.com/api/products
+- Frontend: Not hosted – run locally using instructions below.
+
