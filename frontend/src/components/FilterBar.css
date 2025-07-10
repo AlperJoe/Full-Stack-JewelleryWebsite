@@ -1,0 +1,32 @@
+.filter-bar {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 1rem auto 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .filter-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+    width: 130px;
+  }
+  
+  .filter-bar button {
+    padding: 8px 16px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .filter-bar button:hover {
+    background-color: #555;
+  }
+  .star-picker {
+    display: flex;
+    align-items: center;
+  }
